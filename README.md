@@ -15,16 +15,21 @@ AirExpress chatbot is trained on a real FAQ dataset from an airlain company. It 
 
 ### Example: 
 You:Hi
+
 Helper: You can make a new booking by any of the following methods Buy a seat Online at www.airindiaexpress.in Walk into any of Air India Express' airport or city offices to purchase over the counter. Visit one of our approved Travel Agents. You can also book through our 24x7 Call Centre @ 0091-44-40013001
 
 You:infant
+
 Helper: The same procedure has to be applied as is applicable for booking an adult. Infant must be booked with the accompanying adult. The date of birth has to be filled in while making the booking.
 
 You:meal
+
 Helper: You can pre-book your on-board meal 24 hours prior to the departure of your flight.
 
 You:drinks ?
+
 Helper: Air India Express offers pre-set meals varying from hot meals to wholesome snacks to fresh cut fruits (in addition to soft beverages/ tea/ coffee) which can be purchased in advance. We also provide free complimentary snack box with tea/ coffee.
 
 You:bb
+
 Have a good day!
